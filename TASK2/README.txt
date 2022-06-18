@@ -9,7 +9,7 @@ Paper Title:
 A Survey of the Usages of Deep Learning for Natural Language Processing
 
 Link to the paper:
-https://arxiv.org/pdf/2105.03075.pdf
+https://aclanthology.org/2021.findings-acl.84.pdf
 
 Group number:
 9
